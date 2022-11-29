@@ -17,7 +17,7 @@ class ImplicatureData(Dataset):
     def __getitem__(self, index):
         context = str(self.context[index])
         utterance = str(self.utterance[index])
-        #text = " ".join(text.split())
+
         inputs = self.tokenizer.encode_plus(
             context,
             utterance,
@@ -33,9 +33,11 @@ class ImplicatureData(Dataset):
         token_type_ids = inputs["token_type_ids"]
 
 
+
         return {
             'ids': torch.tensor(ids, dtype=torch.long),
             'mask': torch.tensor(mask, dtype=torch.long),
             'token_type_ids': torch.tensor(token_type_ids, dtype=torch.long),
             'targets': torch.tensor(self.targets[index], dtype=torch.float),
+
         }

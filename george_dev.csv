@@ -1,0 +1,153 @@
+context,utterance,implicature,implicature2
+shall I wear this one?,It is gorgeous.,1,Yes
+Can we go today?,I'm very sick.,0,No
+You wanna give up now? When we're this close to reaching our dream?,This was your dream. You'll manage.,1,Yes
+How do like my new hat?,It is an interesting colour,0,No
+Have you tried choosing the apple pie?,I got the last piece. And it was out of this world,1,Yes
+Could you help Bob and me plan a surpise party for Meg?,What can I do?,1,Yes
+Is Marci grumpy?,he's as gentle as a lamb,0,No
+Have you finished sight-seeing?,Sorry. I should've come to see you first.,1,Yes
+Is your neighbour old?,Older than dirt.,1,Yes
+Are you Zuria?,He's inside.,0,No
+Do you feel you shouldn't take it today?,Today's my birthday. I always make bad decisions on my birthday.,1,Yes
+Could you finish the report on time?,I bit off more than I could chew,0,No
+Do they fight?,They fight like cats and dogs.,1,Yes
+Is this place hot?,As hot as hell,1,Yes
+Are you sure this is a good idea?,"Look, if Artie trusts him, that's good enough for me.",1,Yes
+C-can you can you unlock it?,Not in a million years. But it wouldn't matter;,0,No
+Do you think the police did a good job?,I don't know. I think so.,1,Yes
+Do you suppose the Ivory Tower is still standing?,"Let's hope so, Atreyu. Let's hope so.",1,Yes
+Would you like to hear what I did today?,I am all ears.,1,Yes
+Are you going to talk to Mark?,I want to get this off my chest.,1,Yes
+Am I right?,I would think so.,1,Yes
+"Oh, so this is the best kind?",It's the cheapest.,0,No
+Is this where I get travelling papers?,It would be if we let you travel which we don’t so it isn’t.,1,Yes
+Did you order the code red?,You're goddamn right,1,Yes
+"You stole that doll, didn't you?","Well, i-it looked just like you.",1,Yes
+Do you think I should finish it fast?,Time is ticking away.,1,Yes
+Was Benny emotional?,Benny always wears his heart on his sleeve,1,Yes
+Do you think that Dr. Luby will organize a theatre trip to New York this year?,I have already signed up for it.,1,Yes
+What time's the party?,Beats me!,0,No
+Is it also true that you saw no boat around here at Lisca between yesterday and this morning?,"How many times do I have to tell you, Marshal, that I was at Panarea.",0,No
+Did you go to the movies last night?,“I had to study last night.,0,No
+You don't add some kind of special sauce or something?,"Don't have to. To make something special, you just have to believe it's special.",0,No
+Have you tried cashing that refund cheque at the book store?,Oh Gosh Thank you for reminding me.,0,No
+You're blaming us?,I am thanking you.,0,No
+They've found me! They're after you?,My father must have sent them,1,Yes
+Did he pass the secret to his children?,He kicked the bucket before telling anyone,0,No
+Was he happy?,was on cloud nine.,1,Yes
+"He's that bad, huh?","Not only that, but word of this letter's bound to get out.",1,Yes
+Are you going to tell him what you think?,You bet your boots I am.,1,Yes
+"Do you mean the girl by the fire?
+",The girl with a torch.,0,No
+Are you coming with me to the exhibition today?,I made plans with Susan to go to the exhibition tomorrow afternoon.,0,No
+Are you alone?,Dan and I had a fight and he split.,1,Yes
+I noticed that you have not installed that program on your computer. Shall I sit with you with the instruction manual?,That would be great. You need a phD to undertand it.,1,Yes
+You don't mind taking care of that dog?,It is a labor of love.,0,No
+"They'll be safe, won't they?
+",As safe as we can make 'em.,1,Yes
+And did the young lady who was with you here?,She said she had to catch a Train.,0,No
+Are you alright?,"I just, I wish I could've done something.",0,No
+You took my photo off the ofrenda?!,It was an accident!,1,Yes
+Do you think hysteria could do that?,It's being doing it for centuries.,1,Yes
+Are you taking the other's pokémon?!,Taking them?,0,No
+Can your granmother hear?,She can hear a pin drop a mile away.,1,Yes
+Professor Carlson doesn’t accept late assignments. Were you able to finish the midterm project on time?,"It was close, but I slipped it in right under the wire.",0,No
+You've already brought me the entire Ten thousand miles?,"Only nine thousand eight hundred and ninety one, as the dragon flies.",0,No
+"Professor, would it surprise you to find those clothes suit you?",It would surprise the hell out of me.,1,Yes
+Anything new?, The usual gas.,0,No
+Didn't I tell you to take\out the garbage?,"Coming, Dad!",1,Yes
+Did she put on weight?,She is as thin as a rake.,0,No
+Did he ever fall back on a run?,"All the time, sir.",1,Yes
+You really believe I'm ready?,"You are, Po.",1,Yes
+Isn't it fantastic?,it - it's great. Now let's get outta here.,1,Yes
+Don't you think there's more to our future than jelly?,"Well, I'm also considering a line of jams...",1,Yes
+Are you still working on that same painting?,Hey! Rome was not built in one day!,1,Yes
+"You mean like, hide and seek?",Perfect! Hide and seek in the rain.,1,Yes
+You want answers?,I think I'm entitled to them.,1,Yes
+Do you mind if I ask Raimondo to go with him?,I don't see why I should mind.,0,No
+"Uh, keep an eye on uncle Albert, will you, Bert?",I'll sit with him a while.,1,Yes
+Are they gonna try to eat our Brains?!,I think you'll be safe.,0,No
+Would you like to order dinner?,Bear in mind that I do not speak French.,0,No
+Is it fun to play with Katie?,she's more fun than a barrel of monkeys!,1,Yes
+"But you're saying, you're a daughter of Eve?","Well, my mum's name is Helen…",0,No
+Did you have a good time at the party?,It was gas.,0,No
+Is it raining heavily?,It’s raining cats and dogs.,1,Yes
+Was that easy to find?,I had to walk to the ends of the Earth to find it!,0,No
+Are you taking this the road to med school?,I'm going to try.,1,Yes
+Do you like that theory?,Sounds good. Let's move on.,1,Yes
+Does anyone know how to pick alock?,Sure. Picking locks is my thing.,1,Yes
+Does he work hard?,He has never done a lick of work in his life.,0,No
+Does professor Ford always come to class?,She is ice cold.,1,Yes
+You really hearing voices?,Just one.,1,Yes
+Do you have a cold?,We're allergic to youth.,0,No
+Are you planning for a trip to Florida this summer. It is only three hundred dollars.,Three hundred dollars. Do you think I just inherited a fortune?,0,No
+Did their answer annoy you?,That's what really gets up my nose,1,Yes
+you got anything to sell? , I can get it.,1,Yes
+Did you really say that ? So... how'd you get out of there alive?,"I mean, I didn't actually say that, but I thought it... in my mind. ",0,No
+Do you think you will ever work at that company again?,When pigs fly.,0,No
+Do you still have the gun?,You told me to give it back.,0,No
+Remember when we use to have fun?,before you go boring.,1,Yes
+"Now, are you familiar with the Narnia lullabies?",I'm afraid I'm Not,0,No
+Are you ready to get back to work?,I think so,1,Yes
+Can she hide her feeling?,She wears her heart on her sleeve.,0,No
+You... live here?,"Long time. Long, long time.",1,Yes
+You were a smoker?,Two packs a day.,1,Yes
+"But that's going a bit too far, don't you think?",Indubitably.,1,Yes
+"Can he play the violin?
+",Can a pig fly?,0,No
+Do you have field hands that help you?,We work the land alone.,0,No
+Is your boss giving you extra work?,I have to draw the line somewhere!,1,Yes
+"Do you believe everything you
+               hear?","Oh, I'm not one to judge.",1,Yes
+Have you been avoiding me? Barely seen you since I got home.,I have been busy.,0,No
+Can you lend me hundred dollars?,Is this supposed to be some kind of a joke?,0,No
+Are you all right?,Perfect! Never been better.,1,Yes
+Are you friends?,We almost never see eye to eye.,0,No
+Was that easy to negotiate?,That is as easy as shooting fish in a barrel.,1,Yes
+That chocolate cake looks delicious. Are n't you going to have some with me?,I am allergic to chocolate.,0,No
+Do you know where he is?,I'll find him.,0,No
+Is this really the best time to talk?,"Well, so far…",1,Yes
+"It's the world dear, did you expect it to be small?",Smaller...,1,Yes
+"This anything I should
+               know about?",Nothing out of the routine.,0,No
+Will they fire him?, His days are numbered.,1,Yes
+Are you guys going to win?,You can bet on it.,1,Yes
+You're sure I'm not the Chosen One?,"Emmet, your mother is the most powerful being in the universe.",0,No
+Can I trust George?,He is as clean as a whistle.,1,Yes
+Did you like the show?,"to me, it's like watching grass grow.",0,No
+Did it rain yesterday?,We've been having quite a dry spell lately.,0,No
+You're really gonna pop the question?,"Got the ring. Got the airline tickets. Soon as they break that piñata, we'll grab a cab - and it's off to the land of palm trees and coconuts.",1,Yes
+Can I get that doll?,Great! I'd love to get rid of it!,1,Yes
+Can we watch your TV?,Y... Y... You're expelled! Get out!,0,No
+You think it's a sign?,"Everything has been a sign, why should this be any different?",1,Yes
+Did I scare you? Heh heh.,"I just did a freaky number, not like a fantasy trip, but... So I'm kinda.",0,No
+Will you start processing soon?,We shall proceed with your order in no time.,1,Yes
+Do you have any agricultural background?,I used to work in an office,0,No
+Can you drive that far?,Can fish swim?,1,Yes
+Aren't you scared?,Sometimes.,1,Yes
+"what, are you mad? How could you - what is all this?","It, err, it's just my - collection. . . .",0,No
+Did it succeed?,The whole matter is on the verge of failure.,0,No
+Would you like to go to a party tonight?,I am too tired.,0,No
+"So is everything good, fellas?",I am panicked,0,No
+Does he come to attend the meditation class?,Do pigs fly?,0,No
+Have you started writing your paper on computer programming languages?,"To be true, I had been putting it off.",0,No
+Did he commit a crime?,He disobeyed an order.,1,Yes
+Have you found the place at last?,It was futile.,0,No
+You okay?,"I'm dying, kid.",0,No
+Have you had a chance to wear your new shirt yet?,I have been trying to exchange it for a larger size.,0,No
+Am I late?,No time to talk.,1,Yes
+Did he finish the painting?,Does the sun rise in the west?,0,No
+Did anyone respond angrily because of the lack of bonuses this year?,"Well, that news went over like a lead balloon.",0,No
+I feel horrible. Debbie was furious that I lost her notes. Do you think I should apologize her again?,If I were you I would cool off for some days before I talk to her again.,0,No
+"You're not gonna tell him, are you?","Oh, please, Sebastian, he would never understand.",0,No
+"I've never seen a human this close before. Oh - he's very handsome, isn't he?","I dunno, he looks kinda hairy and slobbery to me.",0,No
+Should I water your plants while you are away?,Thanks for the offer. But Mark already said that he will have an eye on them.,0,No
+Aren't you getting ready?,"We've lost our ride, Miriam.",0,No
+"You, uh, you don't want to go for a ride, do you?",Is it safe?,1,Yes
+Please stay for dinner. Would you like to stay forever?,Dinner would be great.,0,No
+You did it?,I mean it's my theory that I did it. Under post-hypnotic suggestion. With an amnesia block so I wouldn't remember,0,No
+With those stupid uniforms? Right.,Had to give it a try,1,Yes
+Are you going for the party?,Is the pope Catholic?,1,Yes
+"Hey, Donna, man, do you like cats?",Dripping little things. Moving along about a foot above the ground.,0,No
+Are you a very good tennis player?,I'm above average.,1,Yes
