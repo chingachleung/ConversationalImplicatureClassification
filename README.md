@@ -1,5 +1,5 @@
 # Conversational Implicature Classification
-We train 3 models: synthetic model, naturally occurring model and transfer model using different types of data by fine-tuning BERT. Please refer to section [Data](#data)
+We train 3 models: synthetic model, naturally occurring model and transfer model using different types of data by fine-tuning BERT. Please refer to section [Data](#data).
 
 
 # Model Architecture
