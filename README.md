@@ -13,12 +13,13 @@ completion of training.
 # Model Testing
 
 Once you have created your model, run `python test_model.py --testing_file <test_data> --model_file <model_file>` to get a model predictions as well as classicfication report.
-# Data 
+
 
 # Fine-tuning a trained model
 
 To train a transfer model that is fine-tuned on a dataset, followed by another dataset, run `python transfer_learning.py --train_file <train_data> --val_file <validation_data> --model_file <model_file>`. This script will take an already fine-tuned model, and perform further fine-tuing with a different dataset.
 
+# Data 
 
 All the datasets contain pairs of polar-questions and answers that are labeled as 'context', 'uttereance' and 'implicature'.
 1. Circa dataset ([Louis et al., 2020](https://aclanthology.org/2020.emnlp-main.601/)): Contains 32,044 pairs, used for training and validation of the synthetic model. 
