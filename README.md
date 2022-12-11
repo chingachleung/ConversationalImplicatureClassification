@@ -1,5 +1,5 @@
 # Conversational Implicature Classification
-We train 3 models: synthetic model, naturally occurring model and transfer model using different types of data by fine-tuning BERT. Please refer to section [Data](#data).
+We train 3 models: synthetic model, naturally occurring model and transfer model using different types of data by fine-tuning BERT. Please see section [Data](#data) for further detials.
 
 
 # Model Architecture
@@ -24,6 +24,6 @@ To train a transfer model that is fine-tuned on a dataset, followed by another d
 All the datasets contain pairs of polar-questions and answers that are labeled as 'context', 'uttereance' and 'implicature'.
 1. Circa dataset ([Louis et al., 2020](https://aclanthology.org/2020.emnlp-main.601/)): Contains 32,044 pairs, used for training and validation of the synthetic model. 
 2. Friends QIA dataset ([Damgaard et al., 2021](https://www.semanticscholar.org/paper/%E2%80%9CI%E2%80%99ll-be-there-for-you%E2%80%9D%3A-The-One-with-Understanding-Damgaard-Toborek/50a98dff869ab316adc88a6d2a6b1978e9a721c6)): Contains 4,580 pairs,used for training and validation of the naturally occurring model. 
-3. Conversational Implicature dataset ([George & Mamida, 2020](https://arxiv.org/abs/1911.10704)): Contains 733 pairs labeled as 'context', 'uttereance' and 'implicature' used for testing all the models
+3. Conversational Implicature dataset ([George & Mamida, 2020](https://arxiv.org/abs/1911.10704)): Contains 733 pairs, used for testing all the models.
 
 The Circa and and Friends datasets are used for training the Transfer model, which will be validated on the Friends dataset only. 
