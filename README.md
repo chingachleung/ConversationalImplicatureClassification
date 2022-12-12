@@ -12,7 +12,7 @@ completion of training.
 
 # Model Testing
 
-Once you have created your model, run `python test_model.py --testing_file <test_data> --model_file <model_file>` to get a model predictions as well as classicfication report.
+Once you have created your model, run `python test_model.py --testing_file <test_data> --model_file <model_file>` to get model predictions as well as a classicfication report.
 
 
 # Fine-tuning a trained model
